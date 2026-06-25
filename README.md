@@ -67,7 +67,7 @@ The controller app communicates via **Bluetooth Classic**.
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/YourUsername/ESP32-Bluetooth-RC-Car.git](https://github.com/YourUsername/ESP32-Bluetooth-RC-Car.git)
+   git clone [https://github.com/YagnamJoshi/ESP32-Bluetooth-RC-Car.git](https://github.com/YagnamJoshi/ESP32-Bluetooth-RC-Car/tree/main.git)
 2. Setup Arduino IDE:
 
 Install the ESP32 board manager (must be version 3.0.0 or higher).
